@@ -2,7 +2,7 @@
 
 This project simulates the process of projecting 3D points onto a 2D plane from multiple camera perspectives. It visualizes both the original 3D points and their corresponding 2D projections, taking into account the movement of a camera around a circular path. The transformation process uses principles from computer graphics, including homogeneous coordinates and perspective projection.
  
-Here’s a visualization using this code with 3D rabbit data: 
+Here’s a visualization using the code with 3D rabbit data: 
 ![3D Rabbit Plot](Results.png)
 
 ### Key Concepts Demonstrated:
