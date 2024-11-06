@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 """#Dataset**"""
 
-data = pd.read_csv('rabbit_pc.csv')
+data = pd.read_csv('data.csv')
 data.head()
 
 """## **Constants**"""
